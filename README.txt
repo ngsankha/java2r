@@ -28,7 +28,7 @@ computations from R and used to prepare high quality graphs.
 2. License
 ~~~~~~~~~~
 This is a open-source free library licensed under GNU General Public
-License. The full license text can be found in the LICENSE.txt file.
+License. The full license text can be found in the COPYING.txt file.
 
 3. System Requirements
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -41,7 +41,7 @@ To use Java2R you should have
 
 4. Latest Version
 ~~~~~~~~~~~~~~~~~
-The latest version can be obtained from http://sngforge.wordpress.com/
+The latest version can be obtained from https://github.com/sankha93/java2r
 
 5. Installation
 ~~~~~~~~~~~~~~~
@@ -80,7 +80,7 @@ To run them do
 ~~~~~~~
 The following files are included in the distribution
 	README.TXT	This file
-	GNUGPL.TXT	The full license text
+	COPYING.TXT	The full license text
 	Java2R.jar	This the jar file of Java2R
 	docs		This folder contains the library documentation
 	source		The source code for this library
@@ -108,6 +108,5 @@ suggestion then kindly report them to me.
 
 If possible you may rewrite some parts of the program and send them to me.
 
-Website: http://sngforge.wordpress.com
-Forum: http://sngforge.lefora.com
+Website: https://github.com/sankha93/java2r
 E-Mail: sankha93@gmail.com
