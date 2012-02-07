@@ -1,0 +1,10 @@
+This library Java2R is a port to R and can be used in
+your Java programs to connect R and Java. As you can well imagine
+then you can have rich interactive applications at the same time
+use the power of R. You can use this to perform statistical
+computations from R and used to prepare high quality graphs.
+
+2. License
+~~~~~~~~~~
+This is a open-source free library licensed under GNU General Public
+License. The full license text can be found in the LICENSE.txt file.
